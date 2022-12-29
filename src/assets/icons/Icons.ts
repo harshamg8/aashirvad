@@ -1,0 +1,31 @@
+// PLUSCIRCLE : require('../icons/plus_circle.png'),
+// SHARE : require('../icons/share.png'),
+// CLOSE : require('../icons/close.png'),
+// PLUS : require('../icons/plus.png'),
+// EDIT : require('../icons/edit.png'),
+// ACTIVITY : require('../icons/activity.png'),
+// LABOR : require('../icons/labor.png'),
+// MATERIAL : require('../icons/material.png'),
+// UPARROW : require('../icons/up_arrow.png'),
+// DOWNARROW : require('../icons/down_arrow.png'),
+// SAVED : require('../icons/saved.png'),
+// DRAFT : require('../icons/draft.png'),
+// SENT : require('../icons/sent.png'),
+
+const Icons= {
+    PLUSCIRCLE : require('../icons/plus_circle.png'),
+SHARE : require('../icons/share.png'),
+CLOSE : require('../icons/close.png'),
+PLUS : require('../icons/plus.png'),
+EDIT : require('../icons/edit.png'),
+ACTIVITY : require('../icons/activity.png'),
+LABOR : require('../icons/labor.png'),
+MATERIAL : require('../icons/material.png'),
+UPARROW : require('../icons/up_arrow.png'),
+DOWNARROW : require('../icons/down_arrow.png'),
+SAVED : require('../icons/saved.png'),
+DRAFT : require('../icons/draft.png'),
+SENT : require('../icons/sent.png'),
+}
+
+export default Icons
